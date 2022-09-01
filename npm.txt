@@ -1,0 +1,9 @@
+para add o package.json npm init -y
+
+para add os node modules npm install express nodemon mongoose 
+
+
+cors npm i cors
+
+
+para ligar npm start
